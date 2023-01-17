@@ -4,7 +4,6 @@ body {
     flex-direction: column;
     color: black;
     background-color: white;
-    margin-left: 100px;
 }
 
 /* NAVIGATION */
@@ -31,39 +30,52 @@ a {
     color: black;
     font-weight: bolder;
 }
+
 /* HEADER */
 .header {
     display : flex;
-    justify-content: space-between;
-    background: red;
+    justify-content: center;
+    gap: 20px;
 }
 .header-left {
     display : flex;
     flex-direction: column;
-    justify-content: space-evenly;
-    background: green;
+    align-items: left;
 }
-.header-right {
-    display : flex;
-
+.hello {
+    color: gray;
 }
 
+h1 {
+    font-size: 100px;
+    font-weight: 900;
+}
+.intro {
+    color: gray;
+}
 button {
-    background-color: orange;
+    background-color: black;
     border: none;
+    font-weight: 900;
     color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    border-radius: 8px;
+    border-radius: 16px;
+    max-width: 300px;
+}
+.header-right {
+    display : flex;
+    justify-content: center;
+    align-items: center;
 }
 
 img {
     border-radius: 50%;
-    max-width: 500px;
-    max-height: 500px;
+    max-width: 400px;
+    max-height: 400px;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 
