@@ -43,12 +43,12 @@ a {
     display : flex;
     justify-content: center;
     gap: 30px;
+    max-height: 600px;
 }
 .header-right {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-content: center;
     align-items: center;
     background: #F2F2F2;
     padding: 30px;
@@ -56,17 +56,17 @@ a {
     min-height: 600px;
     gap: 10px;
 }
-.hello {
+h4 {
     display: flex;
     font-size: 24px;
+    font-weight: 400;
     margin: 5px;
 }
 h1 {
     display: flex;
-    flex-wrap: wrap;
+    text-align: center;
     font-size: 50px;
     font-weight: 900;
-    margin: none;
     margin: 5px;
 }
 .intro {
