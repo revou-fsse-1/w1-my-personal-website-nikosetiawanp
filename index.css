@@ -43,7 +43,7 @@ a {
     display : flex;
     justify-content: center;
     gap: 30px;
-    max-height: 600px;
+    min-height: 800px;
 }
 .header-right {
     display: flex;
