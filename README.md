@@ -1,7 +1,6 @@
 # Niko Setiawan Website
 
-> Assignment Example for My Personal Website.
-This is the simple personal website of **Niko Setiawan** made using HTML, CSS, and JavaScript.
+> This is the simple personal website of **Niko Setiawan** made using HTML, CSS, and JavaScript.
 
 ## Links/URLs:
 
