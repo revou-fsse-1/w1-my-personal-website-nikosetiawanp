@@ -1,20 +1,21 @@
 # Niko Setiawan Website
 
-> This is the simple personal website of **Niko Setiawan** made using HTML, CSS, and JavaScript.
+This is the simple personal website of **Niko Setiawan** made using HTML, CSS, and JavaScript.
 
 ## Links/URLs:
 
 - <https://nikosetiawanp-profile.netlify.app/>
-- Inspiration: <https://mhaidarhanif.com>
-
 ## Pages
 
 - Home
-- About Me
+- About
+- Contact
 
 ## Screenshots
 
 ![Home](assets/screenshot-home.png)
+![Home](assets/screenshot-about.png)
+![Home](assets/screenshot-contact.png)
 
 
 ## Colors
