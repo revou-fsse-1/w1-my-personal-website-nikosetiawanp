@@ -74,7 +74,7 @@ h4, h1 {
 }
 .intro {
     display: flex;
-    text-align: center;
+    text-align: justify;
     color: grey;
     margin: 5px;
 }
@@ -91,11 +91,6 @@ button {
     border-radius: 32px;
     width: 200px;
     margin: 20px;
-    transition-duration: 0.2s;
-}
-button:hover {
-    background-color: black;
-    color: white;
 }
 .header-left {
     display : flex;
